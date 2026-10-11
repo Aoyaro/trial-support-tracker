@@ -1,0 +1,1 @@
+{"dependencies":{"dotenv":"^16.4.7","express":"^4.21.2"},"description":"Trial backend prototype: remote support issue tracker with technician location magic-links and WhatsApp Cloud API handoff","engines":{"node":">=22.5.0"},"license":"MIT","main":"server.js","name":"trial-support-tracker","scripts":{"start":"node server.js","test":"node test/run-tests.js"},"version":"0.1.0"}
